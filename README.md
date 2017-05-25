@@ -1,4 +1,4 @@
-# story-words
+# Guess What
 
 > A Vue-based *YES/NO* guessing game for ESL learners
 
