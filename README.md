@@ -2,6 +2,8 @@
 
 > A Vue-based *YES/NO* guessing game for ESL learners
 
+![](demo-guess-what.gif)
+
 One ESL learner thinks of an image and can only answer *yes* or *no*. Other learners ask *yes/no* questions to reduce the options to one. Avoid asking "Is it a [cat]". **Works great on interactive whiteboards.**
 
 ## How to use
